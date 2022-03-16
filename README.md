@@ -8,7 +8,7 @@
 - 📫 How to reach me **sireesha.ravulapalli190@gmail.com**
 
 <h3>RESUME</h3>
-[https://drive.google.com/file/d/1IyLt_-9Ig_Dz7yuJFLv9Eoz24E3F6nXd/view?usp=sharing](https://drive.google.com/file/d/1IyLt_-9Ig_Dz7yuJFLv9Eoz24E3F6nXd/view?usp=sharing)
+https://drive.google.com/file/d/1IyLt_-9Ig_Dz7yuJFLv9Eoz24E3F6nXd/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,8 @@
 
 <h3>BLOG</h3>
 [https://hashnode.com/post/my-very-first-individual-cloning-project-yoox-website-construct-week-masai-school-ckypd8seh04cl7js1hofj0kdb#ckysecgls0b4c66s10gfthi1p?utm_source=New%20comment%20email&utm_medium=email](https://hashnode.com/post/my-very-first-individual-cloning-project-yoox-website-construct-week-masai-school-ckypd8seh04cl7js1hofj0kdb#ckysecgls0b4c66s10gfthi1p?utm_source=New%20comment%20email&utm_medium=email)
+<br>
+<br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsiree&show_icons=true&locale=en" alt="rsiree" /></p>
