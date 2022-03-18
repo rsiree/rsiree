@@ -3,9 +3,12 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
+- 👨‍💻 All of my projects are available at [https://portfolio-sireesha.vercel.app/](https://portfolio-sireesha.vercel.app/)
 
 
-- 📫 How to reach me **sireesha.ravulapalli190@gmail.com**
+
+- 💬 Ask me about **Javascript, html, Css**
+
 
 <h3>RESUME</h3>
 https://drive.google.com/file/d/1IyLt_-9Ig_Dz7yuJFLv9Eoz24E3F6nXd/view?usp=sharing
@@ -13,6 +16,7 @@ https://drive.google.com/file/d/1IyLt_-9Ig_Dz7yuJFLv9Eoz24E3F6nXd/view?usp=shari
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sireesha ravulapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sireesha ravulapalli" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
