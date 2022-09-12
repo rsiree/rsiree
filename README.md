@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm R. Sireesha</h1>
+<h1 align="center">Hi 👋, I'm Ravulapalli Sireesha</h1>
+<hr/>
+<h3>An aspiring Full stack developer with 
+knowledge in Html, CSS, JavaScript and React. Interest in
+creating a dynamic and pioneering website. Looking
+forward to work as Web Developer and to bring abilities to working environment .</h3>
+
 <h3 align="center">Student at Masai School.</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at [https://ravulapalli-sireesha.netlify.app/](https://ravulapalli-sireesha.netlify.app/)
-
-
-<h3>RESUME</h3>
-https://drive.google.com/file/d/1IyLt_-9Ig_Dz7yuJFLv9Eoz24E3F6nXd/view?usp=sharing
+- Mail me at ravulapallisireesha.official@gmail.com
+<br/>
+<h3>Resume:</h3> https://drive.google.com/file/d/15jhRfPozYNADkCSG_t2FtBvnBRPZiojN/view?usp=drivesdk
 
 <h3 align="left">Connect with me:
 <span>
