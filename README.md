@@ -11,7 +11,7 @@ forward to work as Web Developer and to bring abilities to working environment .
 - 👨‍💻 All of my projects are available at [https://ravulapalli-sireesha.netlify.app/](https://ravulapalli-sireesha.netlify.app/)
 - Mail me at ravulapallisireesha.official@gmail.com
 <br/>
-<h3>Resume:</h3> https://drive.google.com/drive/folders/1F5cL5PV-t5ot0Q8TvKVU29vY_011tw3l?usp=sharing
+<h3>Resume:</h3> https://drive.google.com/file/d/1sz4qPD7T25wy2DAY-Og_Rf4nbd2udJaO/view?usp=sharing
 
 <h3 align="left">Connect with me:
 <span>
