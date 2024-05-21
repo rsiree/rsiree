@@ -8,7 +8,7 @@ forward to work as Web Developer and to bring abilities to working environment .
 <h3 align="center">Student at Masai School.</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
-- 👨‍💻 All of my projects are available at [https://ravulapalli-sireesha.netlify.app/](https://ravulapalli-sireesha.netlify.app/)
+- 👨‍💻 All of my projects are available at https://sireesha-ravulapalli.vercel.app
 - Mail me at ravulapallisireesha.official@gmail.com
 <br/>
 <h3>Resume:</h3> https://drive.google.com/file/d/1sz4qPD7T25wy2DAY-Og_Rf4nbd2udJaO/view?usp=sharing
