@@ -5,10 +5,7 @@ knowledge in Html, CSS, JavaScript and React. Interest in
 creating a dynamic and pioneering website. Looking
 forward to work as Web Developer and to bring abilities to working environment .</h3>
 
-<h3 align="center">Student at Masai School.</h3>
-
-- 🌱 I’m currently learning **MERN STACK**
-- 👨‍💻 All of my projects are available at https://sireesha-ravulapalli.vercel.app
+- 👨‍💻 All of my personal projects are available at https://sireesha-ravulapalli.vercel.app
 - Mail me at ravulapallisireesha.official@gmail.com
 <br/>
 <h3>Resume:</h3> https://drive.google.com/file/d/1JkCQti4DvqD4ZyPLM8-CgKvOSCc8NNZr/view?usp=sharing
