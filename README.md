@@ -8,7 +8,7 @@ forward to work as Web Developer and to bring abilities to working environment .
 - 👨‍💻 All of my personal projects are available at https://sireesha-ravulapalli.vercel.app
 - Mail me at ravulapallisireesha.official@gmail.com
 <br/>
-<h3>Resume:</h3> https://drive.google.com/file/d/1JkCQti4DvqD4ZyPLM8-CgKvOSCc8NNZr/view?usp=sharing
+<h3>Resume:</h3> https://drive.google.com/file/d/11QGq5OY5tHJAMvU2CGHFU_hug2AcoWiX/view?usp=sharing
 
 <h3 align="left">Connect with me:
 <span>
